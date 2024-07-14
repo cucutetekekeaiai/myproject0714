@@ -1,2 +1,2 @@
 # myproject0714
-![shatou](images/shatou.png)
+![shatou](images/shatou.jpg)
